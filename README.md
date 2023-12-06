@@ -1,6 +1,3 @@
-
-
-
 # dETH Legacy
 
 <p align="center">
@@ -8,6 +5,8 @@
 </p>
 
 The project is a blockchain-based system designed for managing digital assets after a user's death. Its core purpose is to ensure that digital assets are securely and accurately distributed according to the wishes of the deceased, leveraging decentralized oracles for death validation.
+
+Check out our [showcase](https://ethglobal.com/showcase/deth-legacy-vq6ij) on ETHGlobal!
 
 [Google Doc Slides](https://docs.google.com/presentation/d/10YFbQMDNVG65nus_uW5YMGLnLS-WKeksI3RV-j9JPEk/edit?usp=sharing)
 
